@@ -13,4 +13,3 @@ class Square(Figure):
     @property
     def perimeter(self):
         return (self.side_length * 4)
-
